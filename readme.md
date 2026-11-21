@@ -21,7 +21,7 @@ DWI INC is a next-generation, open-source coding project. We offer applications 
 
 ## The name behind the code
 
-**DWI INC** stands for **David Winkler International** — the name behind our company and its open-source projects.
+**DWI INC** stands for **David Winkler International next generation open sourced coding Project** — the name behind our company and its open-source projects.
 
 | Company | Owner | Role |
 | :--- | :--- | :--- |
