@@ -27,6 +27,10 @@ DWI INC is a next-generation, open-source coding project. We offer applications 
 | :--- | :--- | :--- |
 | David Winkler International (DWI INC) | **David Winkler** | Owner |
 
+## Who We Own
+
+**Wired-Office** is owned by **DWI INC**.
+
 ## Explore our applications
 
 Discover our free, open-source applications on our website.
