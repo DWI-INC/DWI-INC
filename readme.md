@@ -37,7 +37,7 @@ Discover our free, open-source applications on our website.
 
 <div align="center">
 
-**DWI INC · David Winkler International**  
+**DWI INC · David Winkler International**<br>
 Free applications. Open-source code.
 
 </div>
